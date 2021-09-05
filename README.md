@@ -2,13 +2,9 @@
 
 
 
-
-
-```
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonardodssilva/)
 
-```
+
 
 <!--
 **LeonardoDSSilva/LeonardoDSSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,5 +19,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://dev.to/envoy_/150-badges-for-github-pnk
+
 -->
 
