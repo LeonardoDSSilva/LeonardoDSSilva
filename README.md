@@ -6,7 +6,7 @@ Meu nome é **Leonardo Silva**, tenho **25 anos**, e sou um eterno apaixonado pe
 
 ---
 
-## 📚 Estudando...
+## 📚 EM DESENVOLVIMENTO...
 
 <!--
 
