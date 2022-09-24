@@ -1,6 +1,6 @@
 ### Olá,  Seja bem-vind@  !  <img src="https://raw.githubusercontent.com/LeonardoDSSilva/LeonardoDSSilva/master/sources/wave.gif" width="30px">
 
-Meu nome é **Leonardo Silva**, tenho **25 anos**, e sou um eterno apaixonado pela tecnologia.
+Um eterno apaixonado pela tecnologia.
 
 
 
@@ -26,6 +26,8 @@ Vivo em constantes estudos para sempre poder me atualizar nas principais tecnolo
 **LeonardoDSSilva/LeonardoDSSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+Meu nome é **Leonardo Silva**, tenho **25 anos**, e sou 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
