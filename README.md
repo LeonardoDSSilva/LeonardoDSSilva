@@ -1,6 +1,6 @@
 ### Olá,  Seja bem-vind@  !  <img src="https://raw.githubusercontent.com/LeonardoDSSilva/LeonardoDSSilva/master/sources/wave.gif" width="30px">
 
-Um eterno apaixonado pela tecnologia.
+Um eterno apaixonado por  STEM (ciência, tecnologia, engenharia e matemática)
 
 
 
@@ -18,7 +18,13 @@ Vivo em constantes estudos para sempre poder me atualizar nas principais tecnolo
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonardodssilva/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/leonardodssilva/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/leonardodss1)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LeonardoDSSilva)
+[![LeonardoDSSilva#2633](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)] ()
+
 
 
 
@@ -39,6 +45,6 @@ Meu nome é **Leonardo Silva**, tenho **25 anos**, e sou
 - ⚡ Fun fact: ...
 
 https://dev.to/envoy_/150-badges-for-github-pnk
-
+https://opensourcelibs.com/lib/badges-for-github
 -->
 
