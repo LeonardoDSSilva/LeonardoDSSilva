@@ -1,6 +1,8 @@
 ### Olá,  Seja bem-vind@  !  <img src="https://raw.githubusercontent.com/LeonardoDSSilva/LeonardoDSSilva/master/sources/wave.gif" width="30px">
+LIFESTYLE: VEGANO | MINIMALISTA | ATIVISTA | VOLUNTÁRIO
 
 Um eterno apaixonado por  STEM (ciência, tecnologia, engenharia e matemática)
+
 
 
 
