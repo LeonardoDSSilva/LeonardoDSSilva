@@ -18,9 +18,9 @@ Estudar é vida ❤️
 Vivo em constantes estudos para sempre poder me atualizar nas principais tecnologias do mercado.
 -->
 
-## Outras Redes Sociais
----
 
+---
+#### Outras Redes Sociais:
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@LeonardoDSSilva)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/LeonardoDSSilva#2633)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/LeonardoDSSilva)
