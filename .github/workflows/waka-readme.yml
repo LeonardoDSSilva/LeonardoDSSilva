@@ -15,14 +15,14 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
-          BLOCKS: ░▒▓█ # optional
+          BLOCKS: =>
           TIME_RANGE: all_time # optional
           LANG_COUNT: 5 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          AUTHOR_NAME: Leonardo Silva
-          AUTHOR_EMAIL: ${{ secrets.EMAIL }} # optional
+          # COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          # AUTHOR_NAME: Leonardo Silva
+          # AUTHOR_EMAIL: ${{ secrets.EMAIL }} # optional
           # you can populate email-id with secrets instead
