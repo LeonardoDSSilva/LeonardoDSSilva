@@ -3,15 +3,16 @@
 ### Futuro Software Engineer 👨‍💻
 LIFESTYLE: VEGAN | ATIVISTA | VOLUNTÁRIO | CORREDOR | NATUREZA | TECNOLOGIA | INOVAÇÃO | Ⓥ ✘ Ⓐ
 > “Viver é estar sempre em constante mudança, evolução e aprendizado.” 🚀
-- 🌎 moro em São Paulo, Brasil 🇧🇷
+- 🌎 São Paulo, Brasil 🇧🇷
 - Futuro Engenheiro de Software 1010101
 - Um eterno aprendiz S.T.E.M. (ciência, tecnologia, engenharia e matemática)
 - Da área Construção Civil para Desenvolvimento de Software 👷 --> 👨‍💻
 
 ## 📚 EDUCAÇÃO:
-- 🎓 **Análise e Desenvolvimento de Sistemas** - [SENAC São Paulo](https://www.sp.senac.br/) (2021 - 2024) 
-- 🎓 **Tecnologo em Construção de Edificioes** - [FATEC Tatuape]() (2018 - 2020)
-- 🎓 **Tecnico em Edificações** - [Senai]() (2013 - 2015)
+- 🎓 **Análise e Desenvolvimento de Sistemas** - [SENAC São Paulo](https://www.sp.senac.br/) (2021 - 2024)
+- 🎓 **Tecnico em Informatica** - [ETEC Tiquatira](https://www.etecdetiquatira.com.br/) (2018 - 2019) 
+- 🎓 **Tecnologo em Construção de Edificioes** - [FATEC Tatuape](https://www.fatectatuape.edu.br/h/) (2017 - 2019)
+- 🎓 **Tecnico em Edificações** - [SENAI TATUÁPE](https://sp.senai.br/unidade/construcaocivil) (2013 - 2015)
 
 ## 🌱 ATUALMENTE APREDENDO E APRIMORANDO:
 - 💻 **Front-End**: HTML, CSS, JavaScript, TypeScript, Angular
@@ -77,8 +78,12 @@ LIFESTYLE: VEGAN | ATIVISTA | VOLUNTÁRIO | CORREDOR | NATUREZA | TECNOLOGIA | I
   <summary style="font-size: 1.5em;">📊 METRICAS:</summary>
 </br>
 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/LeonardoDSSilva)
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/LeonardoDSSilva)
 [![wakatime](https://wakatime.com/badge/user/ed07c057-7612-48d8-8d8f-709027010b97.svg?style=for-the-badge)](https://wakatime.com/@ed07c057-7612-48d8-8d8f-709027010b97 "Ao infinito e além! 🚀") 
+<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/LeonardoDSSilva/)
+[![CodeSignal](https://img.shields.io/badge/CodeSignal-333333?style=for-the-badge&logo=CodeSignal&logoColor=white)](https://app.codesignal.com/profile/LeonardoDSSilva)
+[![CodeWars](https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/LeonardoDSSilva) -->
 </br>
 <!--START_SECTION:waka-->
 
@@ -96,3 +101,5 @@ C#                161 hrs 49 mins ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 </details>
+
+> ObrigadO por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo se tiver alguma pergunta ou oportunidade de colaboração.
