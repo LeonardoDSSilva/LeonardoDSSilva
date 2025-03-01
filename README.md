@@ -81,5 +81,18 @@ LIFESTYLE: VEGAN | ATIVISTA | VOLUNTÁRIO | CORREDOR | NATUREZA | TECNOLOGIA | I
 [![wakatime](https://wakatime.com/badge/user/ed07c057-7612-48d8-8d8f-709027010b97.svg?style=for-the-badge)](https://wakatime.com/@ed07c057-7612-48d8-8d8f-709027010b97 "Ao infinito e além! 🚀") 
 </br>
 <!--START_SECTION:waka-->
+
+```txt
+From: 18 August 2020 - To: 01 March 2025
+
+Total Time: 1,941 hrs 16 mins
+
+JavaScript        401 hrs 14 mins █████░░░░░░░░░░░░░░░░░░░░   19.53 %
+VB.NET            375 hrs 17 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.27 %
+Java              313 hrs 3 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
+Python            285 hrs 27 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
+C#                161 hrs 49 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+```
+
 <!--END_SECTION:waka-->
 </details>
