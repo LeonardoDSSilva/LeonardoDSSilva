@@ -62,7 +62,7 @@ LIFESTYLE: VEGAN | ATIVISTA | VOLUNTÁRIO | CORREDOR | NATUREZA | TECNOLOGIA | I
 </details> -->
 
 <details open>
- <summary style="font-size: 1.5em; list-style-type: ' 🌐'"> + REDES SOCIAIS</summary>
+ <summary style="font-size: 1.5em;">🌐 REDES SOCIAIS</summary>
 </br>
 
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/51894739)
@@ -74,7 +74,7 @@ LIFESTYLE: VEGAN | ATIVISTA | VOLUNTÁRIO | CORREDOR | NATUREZA | TECNOLOGIA | I
 </details>
 
 <details open>
-  <summary style="font-size: 1.5em; list-style-type: '📊 '"> METRICAS:</summary>
+  <summary style="font-size: 1.5em;">📊 METRICAS:</summary>
 </br>
 
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/LeonardoDSSilva)
