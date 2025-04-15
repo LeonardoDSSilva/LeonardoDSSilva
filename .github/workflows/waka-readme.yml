@@ -21,7 +21,8 @@ jobs:
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
+          STOP_AT_OTHER: false # optional
+        
           # COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           # AUTHOR_NAME: Leonardo Silva
           # AUTHOR_EMAIL: ${{ secrets.EMAIL }} # optional
