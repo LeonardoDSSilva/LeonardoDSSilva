@@ -4,6 +4,10 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
+  push:
+    branches:
+      - master
+      - main
 
 jobs:
   update-readme:
@@ -21,7 +25,8 @@ jobs:
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: false # optional
+          STOP_AT_OTHER: true # optional
+          IGNORE_LANGUAGES: Other # optional
         
           # COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           # AUTHOR_NAME: Leonardo Silva
