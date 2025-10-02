@@ -88,11 +88,11 @@ LIFESTYLE: VEGAN | ATIVISTA | VOLUNTÁRIO | CORREDOR | NATUREZA | TECNOLOGIA | I
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2020 - To: 30 September 2025
+From: 18 August 2020 - To: 01 October 2025
 
-Total Time: 2,234 hrs 10 mins
+Total Time: 2,235 hrs 10 mins
 
-Other                              461 hrs 28 mins ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.12 %
+Other                              461 hrs 47 mins ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.12 %
 ```
 
 <!--END_SECTION:waka-->
