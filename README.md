@@ -18,7 +18,7 @@ LIFESTYLE: VEGAN | ATIVISTA | VOLUNTÁRIO | CORREDOR | NATUREZA | TECNOLOGIA | I
 - 💻 **Front-End**: HTML, CSS, JavaScript, TypeScript, Angular
 - 🔧 **Back-End**: .NET, C#, Java, Spring Boot
 - 💽 **DataBase**: PostgreSQL, MongoDB, SQLServer, MySQL, Redis
-- - 🛠️ **Outros**: Git, Docker, Azure, GCP, Python, Streamlit, AppScript, PowerBI, MS Excel, VBA
+- 🛠️ **Outros**: Git, Docker, Azure, GCP, Python, Streamlit, AppScript, PowerBI, MS Excel, VBA
 
 <!-- 
 <details open>
