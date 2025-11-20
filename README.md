@@ -16,8 +16,9 @@ LIFESTYLE: VEGAN | ATIVISTA | VOLUNTÁRIO | CORREDOR | NATUREZA | TECNOLOGIA | I
 
 ## 🌱 ATUALMENTE APREDENDO E APRIMORANDO:
 - 💻 **Front-End**: HTML, CSS, JavaScript, TypeScript, Angular
-- 🔧 **Back-End**: .NET, C#, MongoDB, PostgreSQL, SQLServer
-- 🛠️ **Outros**: Git, Docker, Azure, GCP, Python, Streamlit, AppScript, PowerBI, MS Excel, VBA
+- 🔧 **Back-End**: .NET, C#, Java, Spring Boot
+- 💽 **DataBase**: PostgreSQL, MongoDB, SQLServer, MySQL, Redis
+- - 🛠️ **Outros**: Git, Docker, Azure, GCP, Python, Streamlit, AppScript, PowerBI, MS Excel, VBA
 
 <!-- 
 <details open>
