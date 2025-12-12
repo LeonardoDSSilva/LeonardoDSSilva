@@ -9,6 +9,7 @@ LIFESTYLE: VEGAN | ATIVISTA | VOLUNTÁRIO | CORREDOR | NATUREZA | TECNOLOGIA | I
 - Da área Construção Civil para Desenvolvimento de Software 👷 --> 👨‍💻
 
 ## 📚 EDUCAÇÃO:
+- 🎓 **Pós-Graduação em AI Engineering** - [IMPACTA](https://digital.impacta.com.br/curso/ai-engineering) (2025 - Cursado)
 - 🎓 **Análise e Desenvolvimento de Sistemas** - [SENAC São Paulo](https://www.sp.senac.br/) (2021 - 2024)
 - 🎓 **Tecnico em Informatica** - [ETEC Tiquatira](https://www.etecdetiquatira.com.br/) (2018 - 2019) 
 - 🎓 **Tecnologo em Construção de Edificioes** - [FATEC Tatuape](https://www.fatectatuape.edu.br/h/) (2017 - 2019)
