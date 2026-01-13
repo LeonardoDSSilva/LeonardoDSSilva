@@ -90,7 +90,7 @@ LIFESTYLE: VEGAN | ATIVISTA | VOLUNTÁRIO | CORREDOR | NATUREZA | TECNOLOGIA | I
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2020 - To: 11 January 2026
+From: 18 August 2020 - To: 12 January 2026
 
 Total Time: 2,352 hrs 46 mins
 
